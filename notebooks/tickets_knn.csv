@@ -1,0 +1,11 @@
+ticket,users_affected,business_impact,urgent_words,priority
+T1,9,8,7,High
+T2,8,9,5,High
+T3,7,6,8,High
+T4,9,7,3,High
+T5,6,8,6,High
+T6,2,3,2,Low
+T7,3,2,4,Low
+T8,1,2,1,Low
+T9,4,3,3,Low
+T10,5,4,6,Low
